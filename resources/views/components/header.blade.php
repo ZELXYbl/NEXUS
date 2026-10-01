@@ -50,14 +50,14 @@
       >
         <a
           href="#"
-          class="flex h-9 items-center rounded-lg bg-violet-500 px-5 font-semibold text-[#2d1b53] shadow-[0_0_18px_rgba(139,92,246,0.35)]"
+          class=" flex h-9 items-center px-5 font-semibold transition hover:text-white "
         >
           Главная
         </a>
 
         <a
           href="#"
-          class="flex h-9 items-center px-5 font-semibold transition hover:text-white"
+          class="flex h-11 items-center rounded-lg bg-violet-500 px-5 font-semibold text-[#2d1b53] shadow-[0_0_18px_rgba(139,92,246,0.35)]"
         >
           Статьи и<br />
           лонгриды
